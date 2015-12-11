@@ -112,3 +112,14 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Running the Scripts
+
+For each of the plotting scripts (plot1.R, plot2.R, plot3.R, plot4.R), all you have to do to create the plots specified is to  source the file:
+
+> source('~/git/R/ExData_Plotting1/plot1.R')
+
+Note, the location of the files will change according to your location your cloned repository.
+
+## Developer
+
+Lee Parayno
